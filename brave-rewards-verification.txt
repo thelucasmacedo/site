@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: thelucasmacedo.vercel.app
+Token: e35f3e9fb9ba8bde19dc87e1289fb2c04762cd9fd8705c4a891c86c82495e6b1
